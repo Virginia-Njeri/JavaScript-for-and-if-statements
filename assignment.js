@@ -73,7 +73,7 @@ let num = [-2, 4,-5, 6,0];
 let great_number=[0]
 for (let n=0;n<numbers.length;n++){
   if(num[n]>great_number){
-    console.log(z,"is the largest number")
+    console.log(n,"is the largest number")
   }
   
 
